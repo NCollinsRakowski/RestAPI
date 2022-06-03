@@ -9,3 +9,5 @@ was created on local host 3000
 
 still have not done JS RESTAPI handling exceptions 
 or calling from an HTML PAGE
+
+hosted my local htmp the postman
